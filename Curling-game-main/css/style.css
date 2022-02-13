@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+body, div {
+    margin: 0;
+}
+
+#container {
+    position: absolute;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: grey;
+    opacity: 0.5;
+    height: 50px;
+    width: 40%;
+    margin: auto;
+}
+
+td, tr {
+    border: 2px solid silver;
+    width: 3%;
+    text-align: center;
+}
+
